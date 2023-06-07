@@ -11,3 +11,4 @@
 10.Script that changes working directory to the previous one
 11.Script that lists files
 12.Script that prints file type
+13.Script that creates symbolic link
