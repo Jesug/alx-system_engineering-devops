@@ -18,3 +18,6 @@
 17.Script that display all the lines in the file /etc/passwd that do not contain the pattern “bin”
 18.Script that display all lines of the file /etc/ssh/sshd_config starting with a letter
 19.Script that replace all characters A and c from input to Z and e respectively
+20.Script that removes all letters c and C from input
+21.Script that reverse its input
+22.Script that displays all users and their home directories, sorted by users
